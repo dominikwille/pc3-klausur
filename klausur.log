@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.7)  17 JUL 2013 14:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.7)  17 JUL 2013 15:02
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -723,15 +723,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 13.
 See the caption package documentation for explanation.
 
-) (./a2.tex
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 20.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 20.
-)
-(./a3.tex) (./a4.tex
+) (./a2.tex) (./a3.tex) (./a4.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -743,7 +735,8 @@ Package babel Info: Redefining ngerman shorthand "~
  [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./srep0
-1181-f7.jpg>]) (./a5.tex) (./a6.tex) (./a7.tex
+1181-f7.jpg>]) (./a5.tex) (./a6.tex)
+(./a7.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -752,8 +745,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
- [2])
-(./a8.tex)
+ [2]) (./a8.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 40.
@@ -773,10 +765,10 @@ Package rerunfilecheck Info: File `klausur.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 8516 strings out of 493872
- 124988 string characters out of 6153520
+ 8499 strings out of 493872
+ 124691 string characters out of 6153520
  219163 words of memory out of 5000000
- 11729 multiletter control sequences out of 15000+600000
+ 11715 multiletter control sequences out of 15000+600000
  35918 words of font info for 37 fonts, out of 8000000 for 9000
  621 hyphenation exceptions out of 8191
  36i,7n,38p,245b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -793,7 +785,7 @@ cal/texlive/2013/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 type1/public/lm/lmri10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/lm/lmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmsy
 7.pfb>
-Output written on klausur.pdf (3 pages, 299763 bytes).
+Output written on klausur.pdf (3 pages, 299558 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
